@@ -39,9 +39,8 @@ src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge
 
 <p align='right'>
 <h4>💬  View my Portfolio here</h4>
-  <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stefanysa.netlify.app/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://sophia4422.github.io/my-react-portfolio/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>&nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 
