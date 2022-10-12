@@ -3,11 +3,6 @@
 <p align='center'>
   I live in the West Midlands, UK
 </p>
-
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Sophia4422.Sophia4422??style=for-the-badge&logo=appveyor"></a>
-</p>
-
   
   <h4 align='center'>🌺 Contact me...</h4>
 <p align='center'>
